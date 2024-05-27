@@ -1,0 +1,2 @@
+# CurioLytics
+My personal repository
